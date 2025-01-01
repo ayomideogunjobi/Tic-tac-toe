@@ -1,1 +1,1 @@
-# School-project-
+# Tic-Tac-Toe project - C++
